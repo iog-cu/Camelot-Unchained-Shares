@@ -7,3 +7,4 @@ This is an html file you can run locally in your desktop without loading any ext
 <img width="1504" height="760" alt="image" src="https://github.com/user-attachments/assets/613cb50a-d003-4547-bfd3-0771d70a5941" />
 
 This is an excel file where you can view information from the CU API: https://github.com/ManifestFreedom/Camelot-Unchained-Shares/blob/main/API_Stats_Operations_Breakdown_Calc_V2%20(2).xlsx
+<img width="1893" height="724" alt="image" src="https://github.com/user-attachments/assets/ec6b15b4-4b15-4db5-96d0-9d14df55c3d5" />
