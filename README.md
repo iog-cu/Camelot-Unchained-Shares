@@ -4,5 +4,6 @@ You can find my YouTube here: https://www.youtube.com/@ManifestFreedoms
 This is just a hobby. I don't make any money from my content or opinions.
 
 This is an html file you can run locally in your desktop without loading any external dependencies: https://github.com/ManifestFreedom/Camelot-Unchained-Shares/blob/main/cu_stat_dashboard%20(7).html
+<img width="1504" height="760" alt="image" src="https://github.com/user-attachments/assets/613cb50a-d003-4547-bfd3-0771d70a5941" />
 
 This is an excel file where you can view information from the CU API: https://github.com/ManifestFreedom/Camelot-Unchained-Shares/blob/main/API_Stats_Operations_Breakdown_Calc_V2%20(2).xlsx
